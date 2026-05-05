@@ -13,8 +13,8 @@ CV 3d illusion chess game made with mediapipe, opencv, and num.py. Matrix style 
 
 
 ## installation 
-1. clone the repo with 'git clone https://github.com/sortiz-kalina/4dchess.git' and 'cd 4dchess'
-2. install the required packages with 'pip install pygame opencv-python mediapipe'
+1. clone the repo with `git clone https://github.com/sortiz-kalina/4dchess.git` and `cd 4dchess`
+2. install the required packages with `pip install pygame opencv-python mediapipe`
 3. download face_landmarker task() and hand_landmarker task from [Mediapipe's model](https://ai.google.dev/edge/mediapipe/solutions/model_maker) and place it in the root directory
 
 ## usage 
